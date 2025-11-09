@@ -1,256 +1,150 @@
-#!/usr/bin/env python3
-"""
-Quick GitHub Profile Scanner
-Run this script to automatically scan your repositories and update your profile
-"""
+# Hi there, I'm Anoop Kumar Kushwaha 👋
 
-import json
-import subprocess
-import sys
-import os
-import glob
-from datetime import datetime
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Developer;AI+Enthusiast;Master's+Graduate" alt="Typing SVG" />
+</div>
 
-PREFERENCES_FILE = "profile_preferences.json"
-PROFILE_OPTION_KEYS = (
-    "about",
-    "tagline",
-    "focus",
-    "learning",
-    "open_to",
-    "contact_email",
-    "linkedin",
-    "portfolio",
-    "twitter",
-    "highlighted_repos",
-)
+## 🚀 About Me
 
+I'm a **Master's graduate** from the **University of Adelaide**, passionate about creating innovative solutions through code. Currently seeking full-time opportunities in **Software Development**, **Web Development**, and **AI**.
 
-def install_requirements():
-    """Install required packages"""
-    required_packages = ['requests']
+- 🎓 **Education**: Master's Degree from University of Adelaide
+- 💼 **Looking for**: Full-time roles in Software/Web Development or AI
+- 🌱 **Currently learning**: Advanced AI/ML techniques and modern web frameworks
+- 📍 **Location**: Australia
+- ⚡ **Fun fact**: I love turning complex problems into elegant solutions
 
-    for package in required_packages:
-        try:
-            __import__(package)
-        except ImportError:
-            print(f"Installing {package}...")
-            subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+## 🛠️ Tech Stack
 
+<div align="center">
 
-def load_preferences():
-    """Load stored profile preferences if available"""
-    if os.path.exists(PREFERENCES_FILE):
-        try:
-            with open(PREFERENCES_FILE, "r", encoding="utf-8") as handle:
-                data = json.load(handle)
-                highlighted = data.get("highlighted_repos")
-                if isinstance(highlighted, str):
-                    data["highlighted_repos"] = [item.strip() for item in highlighted.split(",") if item.strip()]
-                return data
-        except json.JSONDecodeError:
-            print("⚠️ Could not read profile preferences file. Creating a fresh one.")
-    return {}
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-def save_preferences(preferences):
-    """Persist profile preferences for future runs"""
-    with open(PREFERENCES_FILE, "w", encoding="utf-8") as handle:
-        json.dump(preferences, handle, indent=2)
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-def prompt_with_default(message, default_value="", required=False):
-    """Prompt the user for input while supporting default values"""
-    while True:
-        suffix = f" [{default_value}]" if default_value else ""
-        response = input(f"{message}{suffix}: ").strip()
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-        if response:
-            return response
-        if default_value:
-            return default_value
-        if not required:
-            return ""
-        print("Please provide a value for this prompt.")
+</div>
 
+## 🔥 Featured Projects
 
-def parse_cli_arguments():
-    """Extract username argument and flags from the CLI"""
-    username_arg = None
-    skip_prompts = False
+<div align="center">
 
-    for arg in sys.argv[1:]:
-        if arg in {"--no-input", "--no-prompt"}:
-            skip_prompts = True
-        elif not arg.startswith("-") and username_arg is None:
-            username_arg = arg
+### 🎯 [Professional Portfolio Website](https://a1819644.github.io/anoop.portfolio/)
+**Modern, responsive portfolio showcasing my work and skills**
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-    return username_arg, skip_prompts
+### 🎥 [Video Labelling System](https://github.com/a1819644/Video_labelling)
+**Advanced video labelling application using YOLO for object detection**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 
+### 👕 [ShirtGPT](https://github.com/a1819644/ShirtGPT)
+**AI-powered custom shirt design generator using machine learning**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=artificial-intelligence&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=machine-learning&logoColor=white)
 
-def gather_user_preferences(existing_preferences, username_arg=None, skip_prompts=False):
-    """Collect or reuse profile preferences from the user"""
-    preferences = existing_preferences.copy()
+### 📱 [Eazy Vision Android App](https://github.com/a1819644/Eazy-vision-android-application-project)
+**Computer vision mobile application for enhanced visual recognition**
+<br>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat-square&logo=opencv&logoColor=white)
 
-    current_username = username_arg or preferences.get("username", "")
+### ⚙️ [Calibration Equipment Management](https://github.com/a1819644/Calibration-equipment-Airmet)
+**Precision equipment management system with real-time monitoring**
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT-34A853?style=flat-square&logo=google-cloud&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-FF6B6B?style=flat-square&logo=prometheus&logoColor=white)
 
-    if skip_prompts and not current_username:
-        raise ValueError("GitHub username is required. Provide it as an argument or run without --no-input.")
+</div>
 
-    if not skip_prompts or not current_username:
-        current_username = prompt_with_default(
-            "Enter your GitHub username",
-            current_username,
-            required=True,
-        )
+## 📊 GitHub Analytics
 
-    preferences["username"] = current_username
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a1819644&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-    if skip_prompts:
-        return preferences
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a1819644&layout=compact&theme=tokyonight&hide_border=true)
 
-    print("\nLet's capture a few optional details to personalize your profile (press Enter to skip).")
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a1819644&theme=tokyonight&hide_border=true)
 
-    optional_fields = (
-        ("about", "Custom 'About' paragraph to override your GitHub bio"),
-        ("tagline", "Short personal tagline (e.g. Software Developer & AI Enthusiast)"),
-        ("focus", "What are you building right now?"),
-        ("learning", "What are you currently learning?"),
-        ("open_to", "Opportunities you're open to"),
-        ("contact_email", "Preferred contact email"),
-        ("linkedin", "LinkedIn URL"),
-        ("portfolio", "Portfolio URL"),
-        ("twitter", "Twitter/X handle or URL"),
-        (
-            "highlighted_repos",
-            "Comma-separated repository names you want always highlighted (e.g. repo-one, repo-two)",
-        ),
-    )
+</div>
 
-    for key, prompt_text in optional_fields:
-        default_val = preferences.get(key, "")
-        if key == "highlighted_repos" and isinstance(default_val, list):
-            default_val = ", ".join(default_val)
-        value = prompt_with_default(prompt_text, default_val)
-        if key == "highlighted_repos":
-            if value:
-                preferences[key] = [item.strip() for item in value.split(",") if item.strip()]
-            else:
-                preferences[key] = []
-        else:
-            preferences[key] = value
+## 🏆 GitHub Achievements
 
-    return preferences
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=a1819644&theme=tokyonight&no-frame=true&row=1&column=7)
 
+</div>
 
-def run_analysis(username, profile_options):
-    """Run the GitHub profile analysis"""
-    try:
-        # Import after ensuring requirements are installed
-        from github_profile_analyzer import GitHubProfileAnalyzer
+## 📈 Contribution Activity
 
-        print(f"🔍 Scanning GitHub repositories for {username}...")
-        analyzer = GitHubProfileAnalyzer(username)
+<div align="center">
 
-        # Generate updated README
-        readme_content = analyzer.generate_readme_content(profile_options)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a1819644&theme=tokyo-night&hide_border=true)
 
-        if readme_content:
-            # Backup existing README if it exists
-            if os.path.exists("README.md"):
-                timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-                backup_name = f"README_backup_{timestamp}.md"
-                os.rename("README.md", backup_name)
-                print(f"📄 Backed up existing README.md as {backup_name}")
+</div>
 
-            # Save new README
-            with open("README.md", "w", encoding="utf-8") as handle:
-                handle.write(readme_content)
+## 🎯 Current Goals
 
-            # Save detailed analysis
-            analyzer.save_profile_data("profile_data.json", extras={"preferences": profile_options})
+- 🔍 **Actively seeking**: Full-time opportunities in Software/Web Development or AI
+- 📚 **Learning**: Advanced machine learning techniques and cloud technologies
+- 🚀 **Building**: More innovative projects that solve real-world problems
+- 🤝 **Collaborating**: Open to contributing to open-source projects
 
-            print("✅ Profile scan completed successfully!")
-            print("📄 Updated README.md with latest repository information")
-            print("📊 Saved detailed analysis to profile_data.json")
+## 📫 Let's Connect!
 
-            # Display summary
-            stats = analyzer.generate_stats_section()
-            languages = analyzer.analyze_languages()
+<div align="center">
 
-            print("\n📈 Profile Summary:")
-            print(f"   Total Repositories: {stats['total_repos']}")
-            print(f"   Total Stars: {stats['total_stars']}")
-            print(f"   Programming Languages: {len(languages)}")
-            print(f"   Top Language: {list(languages.keys())[0] if languages else 'None'}")
-            print(f"   Followers: {stats['followers']}")
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anoop.thekumar2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anoop-kumar-kushwaha-b16b64218)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://a1819644.github.io/anoop.portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a1819644)
 
-        else:
-            print("❌ Failed to scan repositories. Please check your internet connection and username.")
+</div>
 
-    except Exception as exc:
-        print(f"❌ Error during analysis: {exc}")
+---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=a1819644&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-def cleanup_old_backups():
-    """Remove old backup files, keeping only the 3 most recent"""
-    backup_files = glob.glob("README_backup_*.md")
-    if len(backup_files) > 3:
-        # Sort by creation time and remove oldest
-        backup_files.sort(key=os.path.getctime)
-        for old_backup in backup_files[:-3]:
-            os.remove(old_backup)
-            print(f"🗑️ Removed old backup: {old_backup}")
+<div align="center">
+  
+**💡 "Turning ideas into reality, one line of code at a time"**
 
-
-def main():
-    print("🚀 GitHub Profile Auto-Scanner")
-    print("=" * 40)
-
-    username_arg, skip_prompts = parse_cli_arguments()
-    preferences = load_preferences()
-
-    try:
-        preferences = gather_user_preferences(preferences, username_arg, skip_prompts)
-    except ValueError as error:
-        print(f"❌ {error}")
-        return
-
-    save_preferences(preferences)
-
-    username = preferences["username"]
-    profile_options = {}
-    for key, value in preferences.items():
-        if key not in PROFILE_OPTION_KEYS:
-            continue
-        if key == "highlighted_repos":
-            if isinstance(value, list):
-                cleaned = [item.strip() for item in value if item.strip()]
-            else:
-                cleaned = [item.strip() for item in str(value).split(",") if item.strip()]
-            if cleaned:
-                profile_options[key] = cleaned
-            continue
-
-        if isinstance(value, str):
-            stripped = value.strip()
-            if stripped:
-                profile_options[key] = stripped
-        elif value:
-            profile_options[key] = value
-
-    # Install requirements
-    install_requirements()
-
-    # Clean up old backups
-    cleanup_old_backups()
-
-    # Run analysis
-    run_analysis(username, profile_options)
-
-    print("\n🎉 Profile update complete!")
-    print("Your README.md has been updated with the latest information from your repositories.")
-
-
-if __name__ == "__main__":
-    main()
+</div>
