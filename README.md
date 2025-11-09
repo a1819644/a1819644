@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Anoop Kumar Kushwaha
 
-Software Developer • AI Enthusiast • Problem Solver
+Software Developer • AI Enthusiast • Problem Solve
 
 <p>
   <img src="https://img.shields.io/github/followers/a1819644?label=Followers&style=flat-square" alt="GitHub followers" />
@@ -12,21 +12,23 @@ Software Developer • AI Enthusiast • Problem Solver
 </p>
 
 </div>
+
 ## 🧭 Snapshot
+
 - 🌍 Based in **Australia**
 - 🏢 Working with **@Nubevest**
-- 🔭 Currently building: **intelligent web experiences and applied computer vision**
+- 🔭 Currently building: **A affordable chatgpt alternative, Developing the websites for my clients**
 - 📚 Currently learning: **advanced machine learning pipelines and scalable cloud architecture**
-- 🤝 Open to: **software engineering, full-stack development, and AI roles**
+- 🤝 Open to: **Graduate software engineering, full-stack development, and AI roles**
 - 📁 Managing **17** public repositories
 - ⭐ Accumulated **5** GitHub stars
 - 👥 Connected with **1** followers
 - 📅 GitHub member since **2021**
 
 ## 💡 About
-A recent Master's graduate from the University of Adelaide with a passion for building human-centered software, intelligent web experiences, and applied artificial intelligence.
+Lead Developer @ Nubevest | Freelance Full-Stack Developer | Founder @ VectorsLabBuilding scalable web solutions and innovative software products. Currently leading development at Nubevest and managing multiple projects at VectorsLab, including:SecureWrap
 
-Currently focused on **intelligent web experiences and applied computer vision**. Exploring **advanced machine learning pipelines and scalable cloud architecture**. Open to opportunities in **software engineering, full-stack development, and AI roles**.
+Currently focused on **A affordable chatgpt alternative, Developing the websites for my clients**. Exploring **advanced machine learning pipelines and scalable cloud architecture**. Open to opportunities in **Graduate software engineering, full-stack development, and AI roles**.
 
 ## 🛠️ Tech Stack
 **Frontend**
@@ -47,15 +49,23 @@ Currently focused on **intelligent web experiences and applied computer vision**
 
 ## 🚀 Spotlight Projects
 
+### Personal Projects
+
 | Project | Summary | Tech | ⭐ | Last Update |
 | --- | --- | --- | --- | --- |
-| [NubiqAi](https://github.com/a1819644/NubiqAi) | No description provided | TypeScript | 1 | Nov 06, 2025 |
 | [Video_labelling](https://github.com/a1819644/Video_labelling) | Adding the video labelling using yolo | Jupyter Notebook | 2 | Jul 12, 2024 |
-| [anoop.portfolio.io](https://github.com/a1819644/anoop.portfolio.io) | No description provided | CSS | 0 | Feb 02, 2025 |
 | [MCS-Research](https://github.com/a1819644/MCS-Research) | No description provided | Python | 1 | Nov 25, 2022 |
 | [Calibration-equipment-Airmet](https://github.com/a1819644/Calibration-equipment-Airmet) | No description provided | Multiple | 1 | Jul 19, 2023 |
-| [ShirtGPT](https://github.com/a1819644/ShirtGPT) | No description provided | HTML | 0 | Jul 12, 2024 |
+| [walkingapps](https://github.com/a1819644/walkingapps) | No description provided | Dart | 0 | Nov 24, 2024 |
+| [TabManager](https://github.com/a1819644/TabManager) • [Live](https://n) | No description provided | JavaScript | 0 | Sep 17, 2024 |
+| [project_sos](https://github.com/a1819644/project_sos) • [Live](https://n) | No description provided | C++ | 0 | Oct 05, 2024 |
 | [Eazy_vision-android-application-project](https://github.com/a1819644/Eazy_vision-android-application-project) | No description provided | Dart | 0 | Jul 12, 2024 |
+
+### Company Projects
+
+| Project | Summary | Tech | ⭐ | Last Update |
+| --- | --- | --- | --- | --- |
+| [NubiqAi](https://github.com/a1819644/NubiqAi) • [Live](https://vectorslabai-16a5b.web.app/) | No description provided | TypeScript | 1 | Nov 06, 2025 |
 
 ## 📊 GitHub Analytics
 
@@ -71,7 +81,7 @@ Currently focused on **intelligent web experiences and applied computer vision**
 
 ## 🤝 Let's Connect
 - 📧 Email: [anoop.thekumar2@gmail.com](mailto:anoop.thekumar2@gmail.com)
-- 💼 LinkedIn: [https://linkedin.com/in/anoop-kumar-kushwaha-b16b64218](https://linkedin.com/in/anoop-kumar-kushwaha-b16b64218)
+- 💼 LinkedIn: [https://www.linkedin.com/in/anoop-kumar-khushwaha-b16b64218/](https://www.linkedin.com/in/anoop-kumar-khushwaha-b16b64218/)
 - 🌐 Portfolio: [https://a1819644.github.io/anoop.portfolio/](https://a1819644.github.io/anoop.portfolio/)
 - 🧑‍💻 GitHub: [@a1819644](https://github.com/a1819644)
 
