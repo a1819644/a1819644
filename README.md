@@ -1,74 +1,79 @@
-# Hi there, I'm Anoop Kumar Kushwaha 👋
 
-## 🚀 About Me
-A recent Master's graduate from the University of Adelaide, I am seeking a full-time role in Software Development, Web Development, or AI. Eager to apply my academic knowledge and technical skills to create innovative solutions and contribute to cutting-edge projects.
+<div align="center">
 
-- 🔭 I'm currently working on AI/ML projects and web development
-- 🌱 I'm currently learning advanced machine learning techniques and modern web frameworks
-- 📫 How to reach me: [anoop.thekumar2@gmail.com](mailto:anoop.thekumar2@gmail.com)
-- ⚡ Fun fact: I love turning complex problems into elegant code solutions!
+# 👋 Hi, I'm Anoop Kumar Kushwaha
 
-## 📊 GitHub Stats
-- 📁 **16** Public Repositories
-- ⭐ **1** Total Stars
-- 🔱 **2** Total Forks
-- 👥 **1** Followers
+Software Developer • AI Enthusiast • Problem Solver
 
-## 🛠️ Languages & Technologies
+<p>
+  <img src="https://img.shields.io/github/followers/a1819644?label=Followers&style=flat-square" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Stars-2-FFD700?style=flat-square&logo=github" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=a1819644&style=flat-square&color=0A66C2" alt="Profile views" />
+</p>
 
-### Frontend
-- TypeScript
-- CSS
-- JavaScript
-- HTML
-- Vue
+</div>
+## 🧭 Snapshot
+- 🌍 Based in **Australia**
+- 🏢 Working with **@Nubevest**
+- 🔭 Currently building: **intelligent web experiences and applied computer vision**
+- 📚 Currently learning: **advanced machine learning pipelines and scalable cloud architecture**
+- 🤝 Open to: **software engineering, full-stack development, and AI roles**
+- 📁 Managing **17** public repositories
+- ⭐ Accumulated **2** GitHub stars
+- 👥 Connected with **1** followers
+- 📅 GitHub member since **2021**
 
-### Backend
-- Java
-- Python
-- C++
+## 💡 About
+A recent Master's graduate from the University of Adelaide with a passion for building human-centered software, intelligent web experiences, and applied artificial intelligence.
 
-### Mobile
-- Dart
+Currently focused on **intelligent web experiences and applied computer vision**. Exploring **advanced machine learning pipelines and scalable cloud architecture**. Open to opportunities in **software engineering, full-stack development, and AI roles**.
 
-### Other
-- Jupyter Notebook
+## 🛠️ Tech Stack
+**Frontend**
 
-## 🔥 Featured Projects
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=323330) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=35495E)
 
-### [Video_labelling](https://github.com/a1819644/Video_labelling)
-Adding the video labelling using yolo
+**Backend**
 
-**Language:** Jupyter Notebook | **Stars:** 1 | **Forks:** 0
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 
-### [NubiqAi](https://github.com/a1819644/NubiqAi)
-No description available
+**Mobile**
 
-**Language:** TypeScript | **Stars:** 0 | **Forks:** 1
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=ffffff)
 
-### [anoop.portfolio.io](https://github.com/a1819644/anoop.portfolio.io)
-No description available
+**Other**
 
-**Language:** CSS | **Stars:** 0 | **Forks:** 1
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
 
-### [anoop.portfolio](https://github.com/a1819644/anoop.portfolio)
-No description available
+## 🚀 Spotlight Projects
 
-**Language:** TypeScript | **Stars:** 0 | **Forks:** 0
+| Project | Summary | Tech | ⭐ | Last Update |
+| --- | --- | --- | --- | --- |
+| [Video_labelling](https://github.com/a1819644/Video_labelling) | Adding the video labelling using yolo | Jupyter Notebook | 2 | Jul 12, 2024 |
+| [NubiqAi](https://github.com/a1819644/NubiqAi) | No description provided | TypeScript | 0 | Nov 06, 2025 |
+| [anoop.portfolio.io](https://github.com/a1819644/anoop.portfolio.io) | No description provided | CSS | 0 | Feb 02, 2025 |
+| [a1819644](https://github.com/a1819644/a1819644) | No description provided | Multiple | 0 | Nov 09, 2025 |
+| [anoop.portfolio](https://github.com/a1819644/anoop.portfolio) | No description provided | TypeScript | 0 | May 06, 2025 |
 
-### [walkingapps](https://github.com/a1819644/walkingapps)
-No description available
+## 📊 GitHub Analytics
 
-**Language:** Dart | **Stars:** 0 | **Forks:** 0
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a1819644&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a1819644&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1819644&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a1819644&theme=github-dark&hide_border=true" alt="Contribution graph" />
+</div>
 
-## 📫 Connect with me
+## 🤝 Let's Connect
 - 📧 Email: [anoop.thekumar2@gmail.com](mailto:anoop.thekumar2@gmail.com)
-- 💼 LinkedIn: [Anoop Kumar Kushwaha](https://linkedin.com/in/anoop-kumar-kushwaha-b16b64218)
-- 🌐 Portfolio: [a1819644.github.io/anoop.portfolio](https://a1819644.github.io/anoop.portfolio/)
-- 📱 GitHub: [@a1819644](https://github.com/a1819644)
+- 💼 LinkedIn: [https://linkedin.com/in/anoop-kumar-kushwaha-b16b64218](https://linkedin.com/in/anoop-kumar-kushwaha-b16b64218)
+- 🌐 Portfolio: [https://a1819644.github.io/anoop.portfolio/](https://a1819644.github.io/anoop.portfolio/)
+- 🧑‍💻 GitHub: [@a1819644](https://github.com/a1819644)
 
 ---
 <div align="center">
-⭐️ From [a1819644](https://github.com/a1819644) | 💡 "Turning ideas into reality, one line of code at a time"
+  <sub>Generated with ❤️ using GitHub Profile Analyzer • Last updated on Nov 09, 2025</sub>
 </div>
