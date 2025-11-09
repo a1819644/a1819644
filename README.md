@@ -7,7 +7,7 @@ Software Developer • AI Enthusiast • Problem Solver
 
 <p>
   <img src="https://img.shields.io/github/followers/a1819644?label=Followers&style=flat-square" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Stars-2-FFD700?style=flat-square&logo=github" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Stars-5-FFD700?style=flat-square&logo=github" alt="GitHub stars" />
   <img src="https://komarev.com/ghpvc/?username=a1819644&style=flat-square&color=0A66C2" alt="Profile views" />
 </p>
 
@@ -19,7 +19,7 @@ Software Developer • AI Enthusiast • Problem Solver
 - 📚 Currently learning: **advanced machine learning pipelines and scalable cloud architecture**
 - 🤝 Open to: **software engineering, full-stack development, and AI roles**
 - 📁 Managing **17** public repositories
-- ⭐ Accumulated **2** GitHub stars
+- ⭐ Accumulated **5** GitHub stars
 - 👥 Connected with **1** followers
 - 📅 GitHub member since **2021**
 
@@ -35,7 +35,7 @@ Currently focused on **intelligent web experiences and applied computer vision**
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
 
 **Mobile**
 
@@ -49,11 +49,11 @@ Currently focused on **intelligent web experiences and applied computer vision**
 
 | Project | Summary | Tech | ⭐ | Last Update |
 | --- | --- | --- | --- | --- |
+| [NubiqAi](https://github.com/a1819644/NubiqAi) | No description provided | TypeScript | 1 | Nov 06, 2025 |
 | [Video_labelling](https://github.com/a1819644/Video_labelling) | Adding the video labelling using yolo | Jupyter Notebook | 2 | Jul 12, 2024 |
-| [NubiqAi](https://github.com/a1819644/NubiqAi) | No description provided | TypeScript | 0 | Nov 06, 2025 |
 | [anoop.portfolio.io](https://github.com/a1819644/anoop.portfolio.io) | No description provided | CSS | 0 | Feb 02, 2025 |
+| [MCS-Research](https://github.com/a1819644/MCS-Research) | No description provided | Python | 1 | Nov 25, 2022 |
 | [a1819644](https://github.com/a1819644/a1819644) | No description provided | Multiple | 0 | Nov 09, 2025 |
-| [anoop.portfolio](https://github.com/a1819644/anoop.portfolio) | No description provided | TypeScript | 0 | May 06, 2025 |
 
 ## 📊 GitHub Analytics
 
