@@ -93,6 +93,4 @@ I am open to opportunities in **Software Engineering (Full Stack or Backend)** a
 - 🧑‍💻 GitHub: [@a1819644](https://github.com/a1819644)
 
 ---
-<div align="center">
-  <sub>Generated with ❤️ using GitHub Profile Analyzer • Last updated on Nov 09, 2025</sub>
-</div>
+
