@@ -1,72 +1,79 @@
 
-<div align="center">
+# Hi there, I'm Anoop! 👋
+### Software Engineer | CS Master's Graduate | AI Integration Specialist
 
-# 👋 Hi, I'm Anoop Kumar Kushwaha
+Based in **Adelaide, Australia** 🇦🇺
 
-Software Developer • AI Enthusiast • Problem Solve
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anoop-kumar-khushwaha-b16b64218/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-black?style=for-the-badge&logo=vercel)](https://a1819644.github.io/anoop.portfolio/)
 
-<p>
-  <img src="https://img.shields.io/github/followers/a1819644?label=Followers&style=flat-square" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Stars-5-FFD700?style=flat-square&logo=github" alt="GitHub stars" />
-  <img src="https://komarev.com/ghpvc/?username=a1819644&style=flat-square&color=0A66C2" alt="Profile views" />
+---
+
+### 👨‍💻 About Me
+I am a **Software Engineer** with a **Master's in Computer Science** from the University of Adelaide and practical industry experience at **NWAR**. I bridge the gap between robust enterprise engineering and modern AI solutions.
+
+I specialize in building scalable web applications and integrating Deep Learning/NLP models into production environments. Currently, I am focused on building **Salesforces Integrations tools, an internal task management and tracking system & Autonomous AI Agents** and solving complex algorithmic problems.
+
+*   🔭 **I’m currently working on:** An **Autonomous AI Agents** that handles real-time voice conversations.
+*   🎓 **Education:** Master's in CS (University of Adelaide) & Ravi's Study Program Graduate.
+*   💼 **Experience:** Junior Software Engineer at NWAR, Ex-Software Developer.
+*   🧠 **Learning:** Advanced LeetCode patterns & Agentic AI Workflows.
+
+---
+
+### 🛠 Tech Stack & Arsenal
+I believe in using the right tool for the job. My expertise spans full-stack web development and data science.
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+) |
+| **Backend** | Node.js, Express, Java (Spring Boot), MongoDB, SQL |
+| **AI & Data** | Python, NLP, CNN, Deep Learning, Pandas, NumPy |
+| **Core & Tools** | C++, Git, Docker, AWS, Postman |
+
+---
+
+### 🏆 Featured Projects
+
+#### 1. AINubevest 🌟 *(Crown Jewel)*
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ai.nubevest.com.au-FF0000?style=for-the-badge&logo=safari&logoColor=white)](https://ai.nubevest.com.au)
+*A comprehensive AI-integrated investment/tech platform.*
+*   **The Tech:** React, Node.js, MongoDB, Python (AI Models).
+*   **Key Achievement:** Successfully deployed a full-stack AI solution to a live production environment using Australian cloud infrastructure.
+*   **Why it matters:** Demonstrates end-to-end capabilities, from architecture design to deployment and DNS management.
+
+#### 2. SecureWrap 🛒 *(Live E-Commerce)*
+[![Live Demo](https://img.shields.io/badge/Live%20Site-securewrap.com.au-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.securewrap.com.au/)
+*A revenue-generating e-commerce platform serving real customers.*
+*   **Scale:** Managing 80+ dynamic pages with optimized SEO strategies.
+*   **Performance:** High-performance delivery for image-heavy content; fully responsive for mobile and desktop users.
+*   **Impact:** Real-world usage proves ability to write maintainable, bug-free production code.
+
+#### 3. Autonomous AI Call Agent 🤖 *(Current Focus)*
+*An intelligent voice agent capable of holding natural conversations and booking appointments.*
+*   **The Tech:** Python, OpenAI API / LLMs, Speech-to-Text.
+*   **Key Feature:** Engineering low-latency voice responses for natural conversational flow.
+
+#### 4. AI Image Tagger 🖼️
+[![Live Demo](https://img.shields.io/badge/Live%20Site-securewrap.com.au-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://a1819644.github.io/ai-image-tagger/)
+[![Code](https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/a1819644/ai-image-tagger)
+*Automated image classification system using Convolutional Neural Networks (CNN).*
+*   **The Tech:** Python, Gemini APIs, React (Dashboard).
+*   **Highlight:** Custom trained and prompt engineered to tag images, streamlining database organization.
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
-</div>
+---
 
-## 🧭 Snapshot
+### 📬 Let's Connect
+I am open to opportunities in **Software Engineering (Full Stack or Backend)** and **AI/ML Engineering**.
 
-- 🌍 Based in **Australia**
-- 🏢 Working with **@Nubevest**
-- 🔭 Currently building: **A affordable chatgpt alternative, Developing the websites for my clients**
-- 📚 Currently learning: **advanced machine learning pipelines and scalable cloud architecture**
-- 🤝 Open to: **Graduate software engineering, full-stack development, and AI roles**
-- 📁 Managing **17** public repositories
-- ⭐ Accumulated **5** GitHub stars
-- 👥 Connected with **1** followers
-- 📅 GitHub member since **2021**
-
-## 💡 About
-Lead Developer @ Nubevest | Freelance Full-Stack Developer | Founder @ VectorsLabBuilding scalable web solutions and innovative software products. Currently leading development at Nubevest and managing multiple projects at VectorsLab, including:SecureWrap
-
-Currently focused on **A affordable chatgpt alternative, Developing the websites for my clients**. Exploring **advanced machine learning pipelines and scalable cloud architecture**. Open to opportunities in **Graduate software engineering, full-stack development, and AI roles**.
-
-## 🛠️ Tech Stack
-**Frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=323330) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=35495E)
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
-
-**Mobile**
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=ffffff)
-
-**Other**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
-
-## 🚀 Spotlight Projects
-
-### Personal Projects
-
-| Project | Summary | Tech | ⭐ | Last Update |
-| --- | --- | --- | --- | --- |
-| [Video_labelling](https://github.com/a1819644/Video_labelling) | Adding the video labelling using yolo | Jupyter Notebook | 2 | Jul 12, 2024 |
-| [MCS-Research](https://github.com/a1819644/MCS-Research) | No description provided | Python | 1 | Nov 25, 2022 |
-| [Calibration-equipment-Airmet](https://github.com/a1819644/Calibration-equipment-Airmet) | No description provided | Multiple | 1 | Jul 19, 2023 |
-| [walkingapps](https://github.com/a1819644/walkingapps) | No description provided | Dart | 0 | Nov 24, 2024 |
-| [TabManager](https://github.com/a1819644/TabManager) • [Live](https://n) | No description provided | JavaScript | 0 | Sep 17, 2024 |
-| [project_sos](https://github.com/a1819644/project_sos) • [Live](https://n) | No description provided | C++ | 0 | Oct 05, 2024 |
-| [Eazy_vision-android-application-project](https://github.com/a1819644/Eazy_vision-android-application-project) | No description provided | Dart | 0 | Jul 12, 2024 |
-
-### Company Projects
-
-| Project | Summary | Tech | ⭐ | Last Update |
-| --- | --- | --- | --- | --- |
-| [NubiqAi](https://github.com/a1819644/NubiqAi) • [Live](https://vectorslabai-16a5b.web.app/) | No description provided | TypeScript | 1 | Nov 06, 2025 |
-
+[Email Me](mailto:anoop.thekumar2@gmail.com) • [LinkedIn](https://a1819644.github.io/anoop.portfolio/)
 ## 📊 GitHub Analytics
 
 <div align="center">
