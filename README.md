@@ -16,7 +16,7 @@ I specialize in building scalable web applications and integrating Deep Learning
 *   🔭 **Current Focus:** **Internal task management and tracking system & Autonomous AI Agents** that going to assist employees to assign and manage task and also working system which going to handle real-time voice conversations.
 *   🎓 **Education:** Master's in CS (University of Adelaide) & Ravi's Study Program Graduate.
 *   💼 **Experience:** **Junior Software Engineer at NWAR**, Ex-Software Developer.
-*   🧠 **Learning:**  Agentic AI Workflows & Advanced LeetCode patterns.
+*   🧠 **Learning:**  Agentic AI Workflows & Advance Backend Development.
 
 ---
 
@@ -28,7 +28,7 @@ I believe in using the right tool for the job. My expertise spans full-stack web
 | **Frontend** | React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+) |
 | **Backend** | Node.js, Express, Java (Spring Boot), MongoDB, SQL |
 | **AI & Data** | Python, NLP, CNN, Deep Learning, Pandas, NumPy |
-| **Core & Tools** | C++, Git, Docker, AWS, Postman |
+| **Core & Tools** | C++, Git, Docker, AWS, Firebase, Postman |
 
 ---
 
