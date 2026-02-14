@@ -14,7 +14,7 @@ I am a **Software Engineer** with a **Master's in Computer Science** from the Un
 
 I specialize in building scalable web applications and integrating Deep Learning/NLP models into production environments. Currently, I am focused on building **Salesforces Integrations tools, an internal task management and tracking system & Autonomous AI Agents** and solving complex algorithmic problems.
 
-*   🔭 **I’m currently working on:** An **Autonomous AI Agents** that handles real-time voice conversations.
+*   🔭 **I’m currently working on:** **Internal task management and tracking system & Autonomous AI Agents** that going to assist employees to assign and manage task and also working system which going to handle real-time voice conversations.
 *   🎓 **Education:** Master's in CS (University of Adelaide) & Ravi's Study Program Graduate.
 *   💼 **Experience:** Junior Software Engineer at NWAR, Ex-Software Developer.
 *   🧠 **Learning:** Advanced LeetCode patterns & Agentic AI Workflows.
